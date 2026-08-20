@@ -16,3 +16,8 @@ Osu! Lazer exclusive patch
 
 Replace the file with the same name in your osu installation.
 
+---
+
+
+Warning： use at your own risk!
+
