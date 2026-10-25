@@ -1,8 +1,4 @@
-\# LazerWasapiExclusivePatch
-
-
-
-Osu! Lazer 独占模式补丁
+# Osu! Lazer 独占模式补丁
 
 
 
@@ -17,16 +13,9 @@ BUFFER_OVERRIDE= 浮点数 覆盖默认buffer设置
 
 PERIOD_OVERRIDE= 浮点数 覆盖默认period设置
 
-
-
-Osu! Lazer exclusive patch
+see also: https://www.un4seen.com/doc/#basswasapi/BASS_WASAPI_Init.html
 
 
 
-Replace the file with the same name in your osu installation.
-
----
-
-
-Warning： use at your own risk!
+琵琶油是个外行。 
 
